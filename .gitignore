@@ -1,2 +1,3 @@
 /app/cache
+!/app/cache/prod/class_index.php
 /app/logs
